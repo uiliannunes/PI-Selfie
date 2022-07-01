@@ -1,2 +1,2 @@
-# PI-Selfie
+# PI-SelfieSP
 Projeto Integrador - PJI240
