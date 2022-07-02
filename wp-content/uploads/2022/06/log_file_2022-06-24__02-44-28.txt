@@ -1,0 +1,67 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Desculpe, este tipo de ficheiro não é permitido por razões de segurança.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://selfiesp.tk
+Data file = /home2/zurik048/selfiesp/wp-content/uploads/2022/06/content.xml
+Widget file = not defined!
+Customizer file = /home2/zurik048/selfiesp/wp-content/uploads/2022/06/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import hp_listing_availability 1 Day
+[WARNING] Failed to import hp_listing_availability 2 Days
+[WARNING] Failed to import hp_listing_availability 3 Days
+[WARNING] Failed to import hp_listing_type Apartment
+[WARNING] Failed to import hp_listing_category For Sale
+[WARNING] Failed to import hp_listing_warranty Full
+[WARNING] Failed to import hp_listing_type House
+[WARNING] Failed to import hp_listing_warranty Limited
+[WARNING] Failed to import hp_listing_shipping Local
+[WARNING] Failed to import hp_listing_condition New
+[WARNING] Failed to import hp_listing_category Real Estate
+[WARNING] Failed to import hp_listing_type Room
+[WARNING] Failed to import hp_listing_category Services
+[WARNING] Failed to import hp_listing_condition Used
+[WARNING] Failed to import hp_listing_shipping Worldwide
+[WARNING] Failed to import "Vans Old Skool shoes": Invalid post type hp_listing
+[WARNING] Failed to import "Handmade wooden table": Invalid post type hp_listing
+[WARNING] Failed to import "Room with a sea view": Invalid post type hp_listing
+[WARNING] Failed to import "Beautiful spacious house": Invalid post type hp_listing
+[WARNING] Failed to import "Modern secluded house": Invalid post type hp_listing
+[WARNING] Failed to import "Custom carpentry services": Invalid post type hp_listing
+[WARNING] Failed to import "Private yoga classes": Invalid post type hp_listing
+[WARNING] Failed to import "In-house welding services": Invalid post type hp_listing
+[WARNING] Failed to import "Stylish in-home haircuts": Invalid post type hp_listing
+[WARNING] Failed to import "Landscaping and gardening": Invalid post type hp_listing
+[WARNING] Failed to import "Bang & Olufsen speaker": Invalid post type hp_listing
+[WARNING] Failed to import "Brian Peterson": Invalid post type hp_vendor
+[WARNING] Failed to import "Apple MacBook Pro 15"": Invalid post type hp_listing
+[WARNING] Failed to import "Price": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Condition": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Pink Moleskine notebook": Invalid post type hp_listing
+[WARNING] Failed to import "Apple iPhone X Green": Invalid post type hp_listing
+[WARNING] Failed to import "Cozy central studio": Invalid post type hp_listing
+[WARNING] Failed to import "Stylish remodeled room": Invalid post type hp_listing
+[WARNING] Failed to import "Beautiful central room": Invalid post type hp_listing
+[WARNING] Failed to import "Rent": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Type": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Hourly Rate": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "House cleaning services": Invalid post type hp_listing
+[WARNING] Failed to import "Sq. Footage": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Availability": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Shipping": Invalid post type hp_listing_attribute
+[WARNING] Failed to import "Warranty": Invalid post type hp_listing_attribute
+
+
+---Importing customizer settings---
+Customizer settings import finished!

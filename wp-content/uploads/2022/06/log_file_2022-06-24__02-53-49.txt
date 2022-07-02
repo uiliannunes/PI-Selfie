@@ -1,0 +1,20 @@
+
+---Upload files---
+Widget file was not uploaded. Error: Desculpe, este tipo de ficheiro não é permitido por razões de segurança.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://selfiesp.tk
+Data file = /home2/zurik048/selfiesp/wp-content/uploads/2022/06/content-1.xml
+Widget file = not defined!
+Customizer file = /home2/zurik048/selfiesp/wp-content/uploads/2022/06/customizer-1.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!

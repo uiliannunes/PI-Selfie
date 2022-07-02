@@ -1,0 +1,31 @@
+[24-Jun-2022 02:52:52 UTC] Erro na base de dados do WordPress Table 'zurik048_wp58296.wptr_aioseo_cache' doesn't exist na query SELECT 
+	`key`, `value`
+FROM wptr_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-06-24 02:52:52' )
+	AND `key` = 'activation_redirect'
+/* 1 = 1 */ feita por do_action('wp_ajax_ocdi_install_plugin'), WP_Hook->do_action, WP_Hook->apply_filters, OCDI\PluginInstaller->install_plugin_callback, OCDI\PluginInstaller->activate_plugin, activate_plugin, do_action('activate_all-in-one-seo-pack/all_in_one_seo_pack.php'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->activate, AIOSEO\Plugin\Common\Utils\Cache->clear, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[24-Jun-2022 02:52:52 UTC] Erro na base de dados do WordPress Table 'zurik048_wp58296.wptr_aioseo_cache' doesn't exist na query TRUNCATE TABLE wptr_aioseo_cache
+/* 1 = 1 */ feita por do_action('wp_ajax_ocdi_install_plugin'), WP_Hook->do_action, WP_Hook->apply_filters, OCDI\PluginInstaller->install_plugin_callback, OCDI\PluginInstaller->activate_plugin, activate_plugin, do_action('activate_all-in-one-seo-pack/all_in_one_seo_pack.php'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->activate, AIOSEO\Plugin\Common\Utils\Cache->clear, AIOSEO\Plugin\Common\Utils\Database->run
+[24-Jun-2022 02:52:52 UTC] Erro na base de dados do WordPress Table 'zurik048_wp58296.wptr_aioseo_cache' doesn't exist na query INSERT INTO wptr_aioseo_cache
+SET `key` = 'activation_redirect', `value` = 'b:1;', `expiration` = '2022-06-24 02:53:22', `created` = '2022-06-24 02:52:52', `updated` = '2022-06-24 02:52:52'
+ON DUPLICATE KEY UPDATE `value` = 'b:1;', `expiration` = '2022-06-24 02:53:22', `updated` = '2022-06-24 02:52:52'
+/* 1 = 1 */ feita por do_action('wp_ajax_ocdi_install_plugin'), WP_Hook->do_action, WP_Hook->apply_filters, OCDI\PluginInstaller->install_plugin_callback, OCDI\PluginInstaller->activate_plugin, activate_plugin, do_action('activate_all-in-one-seo-pack/all_in_one_seo_pack.php'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->activate, AIOSEO\Plugin\Common\Main\Activate->maybeRunSetupWizard, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[24-Jun-2022 02:52:52 UTC] Erro na base de dados do WordPress Table 'zurik048_wp58296.wptr_aioseo_cache' doesn't exist na query SELECT 
+	`key`, `value`
+FROM wptr_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-06-24 02:52:52' )
+	AND `key` = 'admin_notifications_update'
+/* 1 = 1 */ feita por require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
+[24-Jun-2022 02:52:52 UTC] Erro na base de dados do WordPress Table 'zurik048_wp58296.wptr_aioseo_cache' doesn't exist na query INSERT INTO wptr_aioseo_cache
+SET `key` = 'admin_notifications_update', `value` = 'i:1656125572;', `expiration` = '2022-06-25 02:52:52', `created` = '2022-06-24 02:52:52', `updated` = '2022-06-24 02:52:52'
+ON DUPLICATE KEY UPDATE `value` = 'i:1656125572;', `expiration` = '2022-06-25 02:52:52', `updated` = '2022-06-24 02:52:52'
+/* 1 = 1 */ feita por require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Admin\Notices\Notices->init, AIOSEO\Plugin\Common\Admin\Notices\Notices->maybeUpdate, AIOSEO\Plugin\Common\Utils\Cache->update, AIOSEO\Plugin\Common\Utils\Database->run
+[24-Jun-2022 02:52:52 UTC] Erro na base de dados do WordPress Table 'zurik048_wp58296.wptr_aioseo_cache' doesn't exist na query SELECT 
+	`key`, `value`
+FROM wptr_aioseo_cache
+WHERE 1 = 1 AND
+	( `expiration` IS NULL OR `expiration` > '2022-06-24 02:52:52' )
+	AND `key` = 'pro_just_deactivated_lite'
+/* 1 = 1 */ feita por require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Main\Activate->init, AIOSEO\Plugin\Common\Utils\Cache->get, AIOSEO\Plugin\Common\Utils\Database->run
